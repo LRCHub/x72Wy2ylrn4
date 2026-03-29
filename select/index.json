@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "SAPPORO TOKYO",
+  "base_artist": "Furui Riho",
+  "createdAt": "2026-03-29T09:40:46.854045Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sapporo Tokyo",
+      "artist": "Furui Riho",
+      "has_synced": true,
+      "path": "select/01_Sapporo_Tokyo_Furui_Riho.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sapporo Tokyo",
+      "artist": "Furui Riho, A.G.O",
+      "has_synced": true,
+      "path": "select/02_Sapporo_Tokyo_Furui_Riho,_A.G.O.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAPPORO TOKYO",
+      "artist": "Furui Riho",
+      "has_synced": false,
+      "path": "select/pl_01_SAPPORO_TOKYO_Furui_Riho.txt"
+    }
+  ]
+}
